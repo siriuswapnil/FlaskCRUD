@@ -1,4 +1,4 @@
-###Flask CRUD APP 
+Basic Flask CRUD APP 
 ---
 To install : 
 * Set up virtual env
